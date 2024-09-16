@@ -1,0 +1,2 @@
+librerias usadas: 
+PyQt5 es la unica libreria usada para estos codigos 
